@@ -1,5 +1,8 @@
 _repo: John-L-Stoddard-s-Lectures-Vol-03-of-10-Japan-I-Japan-II-China_62121
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62121-h/images/cover.jpg
 creator:
   author:
     agent_name: Stoddard, John L. (John Lawson)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3837
     wikipedia: https://en.wikipedia.org/wiki/John_Lawson_Stoddard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62121#John-L-Stoddard-s-Lectures-Vol-03-of-10-Japan-I-Japan-II-China
 gutenberg_issued: '2020-05-14'
 gutenberg_type: Text
 identifiers:
